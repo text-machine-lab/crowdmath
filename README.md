@@ -116,6 +116,10 @@ Each `project_id` corresponds to one CrowdMath research project:
 | `mitprimes2025` | 2025 | 5 |
 | `mitprimes2025-2` | 2025 | 2 |
 
+## License
+
+This dataset is released under the [MIT License](LICENSE).
+
 ## Citation
 
 If you use this dataset, please cite:
