@@ -2,17 +2,12 @@
 
 This repository hosts resources for the paper:
 
-**CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions**
-
-Sherin Muckatira, Jesse Geneson, Slava Gerovitch, Pavel Etingof, Mikhail Gronas, Anna Rumshisky
-
-[[Paper]](https://arxiv.org/abs/2606.06526)
+**[CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions](https://arxiv.org/abs/2606.06526)**
 
 ## Overview
 
 This dataset captures the collaborative mathematical reasoning that took place
-on the MIT PRIMES CrowdMath online research program. In CrowdMath, high-school
-and undergraduate students work together on open research problems in
+on the MIT PRIMES CrowdMath online research program (2016-2025). In CrowdMath, high-school students work together on open research problems in
 mathematics, posting conjectures, proofs, error corrections, and questions on a
 shared message board (Art of Problem Solving / AoPS).
 
